@@ -25,3 +25,9 @@
   padding-right: 15pt;
   padding-top: 15pt;
 }
+
+.right-image {
+  height: auto;
+  width: 250px;
+  float: right;
+}
